@@ -1,0 +1,44 @@
+h1{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: rgb(54, 111, 121);
+}
+body{
+    background-color: azure;
+}
+.menu{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: flex-end;
+}
+.menu a{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+}
+.menu a:hover{
+
+    font-size: bold;
+    padding: 20px;
+    color: red;
+    background-color: grey;
+}
+.abc{
+    background-color: aquamarine;
+    float: left;
+    width:25%;
+    height: 800px;
+}
+.main{
+    background-color: lightpink;
+    width: 50%;
+    float: left;
+    height: 800px;
+    padding: 20px;
+    border: 2px solid black;
+    
+}
+from div{
+    text-align: center;
+}
